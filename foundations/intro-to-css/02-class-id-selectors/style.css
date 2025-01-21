@@ -1,0 +1,21 @@
+#id1 {
+    color: blue;
+    font-size: 36px;
+}
+
+/* a light green background, a font size of 24px, and bold */
+#id2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.class1 {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    
+}
+
+.class1.cool-class {
+    font-size: 24px;
+}
